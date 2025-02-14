@@ -1,15 +1,15 @@
 [
     
     {
-        "target": "_20190720102143_1022090_frame_0004",
-        "candidate": "_20190720102143_1022090_frame_0000",
-        "label": "non-thickened",
+        "target": "_20190720094945_0953510_frame_0171",
+        "candidate": "_20190720094945_0953510_frame_0000",
+        "label": "thickened",
         "captions": [
-            "The wall shows a thin, uniform layer with moderate brightness and soft contrast",
-            "It has a smooth texture, no shadowing, and a clear boundary with the vessel lumen"
+            "The wall appears thickened with brighter, dense bands and uneven, wavy contours",
+            "Shadowing occurs near dense areas, with a coarse texture and varied echo patterns"
         ],
         "captions_cls": [
         "A photo of ultrasound carotid artery", 
-        "showing non-thickened intima-media"
+        "showing thickened intima-media"
         ]
     },
