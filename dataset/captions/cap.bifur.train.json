@@ -1,1 +1,15 @@
-
+[
+    
+    {
+        "target": "_20190720102143_1022090_frame_0004",
+        "candidate": "_20190720102143_1022090_frame_0000",
+        "label": "non-thickened",
+        "captions": [
+            "The wall shows a thin, uniform layer with moderate brightness and soft contrast",
+            "It has a smooth texture, no shadowing, and a clear boundary with the vessel lumen"
+        ],
+        "captions_cls": [
+        "A photo of ultrasound carotid artery", 
+        "showing non-thickened intima-media"
+        ]
+    },
