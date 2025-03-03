@@ -51,6 +51,4 @@ python .\src\clip_fine_tune.py
 python .\src\test.py   
 ```
 
-### Acknowledgements：
-This code-base uses certain code-blocks and helper functions from CLIP4Cir [Link](https://github.com/ABaldrati/CLIP4Cir).
 
