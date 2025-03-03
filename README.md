@@ -38,10 +38,6 @@ dataset
     ├── split.bifur.val.json
     ├── split.bifur.test.json
 └── images
-      |   ├── 20190720094945_0953510 frame_0000.jpg
-      |   ├── 20190720094945_0953510 frame_0001.jpg
-      |   ├── 20190720094945_0953510 frame_0002.jpg
-      |   ├── ...
 ```
 
 ## Training and Validation
