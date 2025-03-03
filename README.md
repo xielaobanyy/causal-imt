@@ -1,5 +1,5 @@
 # causal-imt
-This is the official implementation of the paper "Assessment of Intima-Media Thickening in Ultrasound Videos via a Causal-Inspired Model with Chain-of-Thought Guidance". The code will be released soon！
+This is the official implementation of the paper "A Causality-Inspired Model for Intima-Media Thickening Assessment in Ultrasound Videos". The code will be released soon！
 
 ## Introduction
 
