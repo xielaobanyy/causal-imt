@@ -21,8 +21,8 @@ cd causal-imt
 To install all the dependencies :
 
 ```bash
-conda env create imt python==3.9.0
-conda activate imt
+conda env create causal-imt python==3.9.0
+conda activate causal-imt
 pip install -r requirements.txt
 ```
 ## Data Format
